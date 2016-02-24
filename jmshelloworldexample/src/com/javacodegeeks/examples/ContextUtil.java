@@ -15,7 +15,8 @@ public class ContextUtil {
 		props.setProperty("java.naming.provider.url", "localhost:1099");
 		Context context = new InitialContext(props);
 		return context;
-		// test
+		// test  
+		// dev
 		
 	}
 }
