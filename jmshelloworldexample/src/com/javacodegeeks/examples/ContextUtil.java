@@ -1,5 +1,6 @@
 package com.javacodegeeks.examples;
 
+/* $Id $ */ 
 import java.util.Properties;
 
 import javax.naming.Context;
